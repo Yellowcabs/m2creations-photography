@@ -55,7 +55,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
           <div className="relative group perspective-1000">
             <div className="reveal-img-m2 active relative z-10">
               <img 
-                src="/image/Gray and White Elegant Photography Service Instagram Post.png" 
+                src="/image/Gray and White Elegant Photography Service Instagram Post.webp" 
                 className="w-full aspect-[4/5] object-cover rounded-[3rem] shadow-[0_50px_100px_-20px_rgba(213,72,104,0.15)] grayscale hover:grayscale-0 transition-all duration-1000" 
                 alt="m2creations Cinematic Frame"
               />

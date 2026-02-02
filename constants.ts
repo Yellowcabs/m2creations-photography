@@ -24,14 +24,14 @@ export const TESTIMONIALS: Testimonial[] = [
     name: 'Sarah + James',
     date: 'Summer 2023',
     quote: "M2 Creations didn’t just take photos — they captured the soul of our day. Every time we watch our film, we’re right back there.",
-    imageUrl: '/image/सफ़ेद और काला स्लीक और सरल शादी फ़ोटोग्राफ़ी वेबसाइट.png'
+    imageUrl: '/image/सफ़ेद और काला स्लीक और सरल शादी फ़ोटोग्राफ़ी वेबसाइट.webp'
   },
   {
     id: '2',
     name: 'Elena + Marcus',
     date: 'Autumn 2023',
     quote: "Elegant, professional, and incredibly gifted — worth every moment and every rupee.",
-    imageUrl: '/image/Wedding Photography Photography Website in White and Black Sleek and Simple Style.png'
+    imageUrl: '/image/Wedding Photography Photography Website in White and Black Sleek and Simple Style.webp'
   }
 ];
 
