@@ -1,0 +1,21 @@
+{
+  "name": "m2creations Photography",
+  "short_name": "m2creations",
+  "description": "Luxury Wedding Photography Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F6",
+  "theme_color": "#8B5CF6",
+  "icons": [
+    {
+      "src": "https://picsum.photos/id/1025/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/id/1025/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

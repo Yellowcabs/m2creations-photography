@@ -1,0 +1,7 @@
+{
+  "name": "m2creations Photography",
+  "description": "Luxury wedding photography by m2creations. Editorial, candid, and fine art wedding photography services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
