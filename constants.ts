@@ -82,5 +82,5 @@ export const CONTACT_INFO = {
   email: 'm2creations2802@gmail.com',
   address: 'Selva Madha Complex, 62D, Srinivasa St, Udumalaipettai, Tamil Nadu 642126, India',
   whatsapp: '6383165382',
-  instagram: '@m2_creations'
+  instagram: '@_m2_creations_'
 };
